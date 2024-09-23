@@ -1,0 +1,112 @@
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\Visual Basic Project.exe
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\Visual Basic Project.deps.json
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\Visual Basic Project.runtimeconfig.json
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\Visual Basic Project.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\Visual Basic Project.pdb
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.AssemblyInfoInputs.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.AssemblyInfo.vb
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.vbproj.CoreCompileInputs.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\refint\Visual Basic Project.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.pdb
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.genruntimeconfig.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\ref\Visual Basic Project.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual Basic Project.vbproj.AssemblyReference.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\Visual Basic Project\obj\Debug\net8.0\Visual B.E49F2F32.Up2Date
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.exe
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.deps.json
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.runtimeconfig.json
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.pdb
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.vbproj.AssemblyReference.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.AssemblyInfoInputs.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.AssemblyInfo.vb
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.vbproj.CoreCompileInputs.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.sourcelink.json
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual B.E49F2F32.Up2Date
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\refint\Visual Basic Project.dll
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.pdb
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.genruntimeconfig.cache
+C:\Users\Adonay\Documents\Visual Basic Projects\db-vba-app-b\obj\Debug\net8.0\ref\Visual Basic Project.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.exe
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.deps.json
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\Visual Basic Project.pdb
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.vbproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.AssemblyInfo.vb
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.vbproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual B.E49F2F32.Up2Date
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\refint\Visual Basic Project.dll
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.pdb
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\Visual Basic Project.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\VisualBasicProjects\db-vba-app-b\obj\Debug\net8.0\ref\Visual Basic Project.dll
